@@ -1,14 +1,18 @@
-### Ecoleta
-Site desenvolvido pela equipe da Rocketseat no evento online Next Level Week #1
+## Ecoleta
+Site desenvolvido pela equipe da [Rocketseat](https://github.com/Rocketseat) no evento online [Next Level Week #1](https://nextlevelweek.com)
 
-## 📋 Sumário
+---
+
+### 📋 Sumário
 
 - [Sobre](#-Sobre)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - [Como executar o projeto](#-Como-executar-o-projeto)
 - [Preview](#-Preview)
 
-## 📖 Sobre:
+---
+
+### 📖 Sobre:
 
 Este é um projeto sobre um site cujo o propósito é servir como um local central para você achar locais de coleta de lixo. Simples, fácil e rápido.
 
@@ -18,7 +22,7 @@ Também há um sistema de cadastro simples para as empresas que coletam o lixo. 
 
 --- 
 
-## 💻 Tecnologias usadas:
+### 💻 Tecnologias usadas:
 
 O projeto está desenvolvido utilizando as seguintes tecnologias:
 
@@ -31,7 +35,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 --- 
 
-## ⌨ Como executar o projeto
+### ⌨ Como Executar: 
 
 ```bash
 # 1. Clonar o repositório
@@ -53,3 +57,8 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 * Twitter: [@ThiagoVonMoraes](https://twitter.com/ThiagoVonMoraes)
 * Github: [@Moraes-Thiago](https://github.com/moraes-thiago)
 * LinkedIn: [@ThiagoMoraes](https://www.linkedin.com/in/thiago-moraes-b6961a1a9/)
+
+---
+
+Feito com Amor <3
+Template baseado no do [Guilherme Capitão](https://github.com/guilhermecapitao) e do [Mayk Brito](https://github.com/maykbrito/).
