@@ -5,9 +5,9 @@ Site desenvolvido pela equipe da [Rocketseat](https://github.com/Rocketseat) no 
 
 ### 📋 Sumário
 
-- [Sobre](#-Sobre)
-- [Tecnologias Usadas](#-Tecnologias-utilizadas)
-- [Como Executar](#-Como-executar-o-projeto)
+- [Sobre](###-Sobre)
+- [Tecnologias Usadas](###-Tecnologias-utilizadas)
+- [Como Executar](###-Como-executar)
 
 ---
 
@@ -23,7 +23,7 @@ Também há um sistema de cadastro simples para as empresas que coletam o lixo. 
 
 ### 💻 Tecnologias Usadas:
 
-O projeto está desenvolvido utilizando as seguintes tecnologias:
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - HTML
 - CSS
