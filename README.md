@@ -6,7 +6,7 @@ Site desenvolvido pela equipe da [Rocketseat](https://github.com/Rocketseat) no 
 ### 📋 Sumário
 
 - [Sobre](#-sobre)
-- [Tecnologias Usadas](#-tecnologias-utilizadas)
+- [Tecnologias Usadas](#-tecnologias-usadas)
 - [Como Executar](#-como-executar)
 
 ---
