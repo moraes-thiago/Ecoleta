@@ -38,10 +38,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/guilhermecapitao/proffy-discovery
+git clone https://github.com/moraes-thiago/Ecoleta
 
 # 2. Entrar no diretório
-cd proffy-discovery
+cd Ecoleta
 
 # 3. Executar o servidor
 npm run dev
