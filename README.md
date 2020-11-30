@@ -53,7 +53,7 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 👤 **Thiago Moraes**
 
-* Twitter: [@ThiagoVonMoraes](https://twitter.com/ThiagoVonMoraes)
+* Twitter: [@ThiagoLuvMoraes](https://twitter.com/ThiagoLuvMoraes)
 * Github: [@Moraes-Thiago](https://github.com/moraes-thiago)
 * LinkedIn: [@ThiagoMoraes](https://www.linkedin.com/in/thiago-moraes-b6961a1a9/)
 
