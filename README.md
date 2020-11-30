@@ -5,9 +5,9 @@ Site desenvolvido pela equipe da [Rocketseat](https://github.com/Rocketseat) no 
 
 ### 📋 Sumário
 
-- [Sobre](#-Sobre)
-- [Tecnologias Usadas](#-Tecnologias-utilizadas)
-- [Como Executar](#-Como-executar)
+- [Sobre](#-sobre)
+- [Tecnologias Usadas](#-tecnologias-utilizadas)
+- [Como Executar](#-como-executar)
 
 ---
 
